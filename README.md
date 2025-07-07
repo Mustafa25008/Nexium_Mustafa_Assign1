@@ -21,18 +21,6 @@ This is the first assignment for the Nexium Internship Program completed by **Mu
 
 ## 📁 Folder Structure
 
-```
-
-📦 assignment-1
-┣ 📂 src
-┃ ┣ 📂 app
-┃ ┃ ┗ 📜 page.tsx       → Main UI code
-┃ ┃ ┗ 📜 globals.css    → Global styles
-┃ ┗ 📂 data
-┃ ┃ ┗ 📜 quotes.ts      → Local array of 50 quotes
-┣ 📜 tailwind.config.ts → Tailwind config
-┣ 📜 README.md          → Project documentation
-
 ````
 
 ## 📌 How to Run Locally
