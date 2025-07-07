@@ -11,7 +11,6 @@ A modern, responsive quote generator built using:
 - ShadCN UI
 - TypeScript
 
-📂 [View Project Folder](./internship/assignment-1)  
 🔗 [Open Live Preview (optional)](https://your-deployed-link.com)
 
 More assignments will be added as the internship progresses.
