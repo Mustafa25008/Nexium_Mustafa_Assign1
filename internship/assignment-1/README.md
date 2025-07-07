@@ -11,7 +11,7 @@ A modern, responsive quote generator built using:
 - ShadCN UI
 - TypeScript
 
-🔗 [Open Live Preview (vercer)](https://quotes-generator-wine-gamma.vercel.app/)
+🔗 [Open Live Preview (vercel)](https://quotes-generator-wine-gamma.vercel.app/)
 
 More assignments will be added as the internship progresses.
 
