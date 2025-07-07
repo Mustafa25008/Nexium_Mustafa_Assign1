@@ -8,7 +8,7 @@ import {
   SelectItem,
 } from "@/components/ui/select";
 import { quotes } from "@/data/quotes";
-import heroImage from "@/assets/hero-bg.jpg";
+import bg1 from "@/assets/bg1.png";
 
 const Index = () => {
   const [selectedTopic, setSelectedTopic] = useState("");
@@ -42,7 +42,7 @@ const Index = () => {
     <div
       className="min-h-screen flex flex-col text-foreground"
       style={{
-        backgroundImage: `url(${heroImage})`,
+        backgroundImage: `url(${bg1})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
